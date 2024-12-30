@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "361248548377",
+    "firebase_url": "https://idhamghatfan-2231730135-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "idhamghatfan-2231730135",
+    "storage_bucket": "idhamghatfan-2231730135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361248548377:android:8cf93fb1c9a65dabb16c88",
+        "android_client_info": {
+          "package_name": "idham_2231730135.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwHVmfGThLznEruRFupsjk3ft9ZJnmjXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
